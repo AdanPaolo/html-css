@@ -1,0 +1,13 @@
+p {
+    position:relative;
+    Text-align:center;
+    top:100px;
+    background-color: aquamarine;
+   }
+
+   body {background-image: url(bungas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;} 
+
+     
+     
